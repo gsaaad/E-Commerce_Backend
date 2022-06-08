@@ -15,6 +15,10 @@ This is an E-Commerce-Backend project built to utilize API REST Routes. user can
 
 ## Usage
 
+Watch the video Tutorial!
+
+https://drive.google.com/file/d/1MoqFlUsJMXXZ3x431geuw6JQY5A6NBe1/view
+
 To build foundational knowledge on API Routes and how to configure the backend to match and connect toa database that is pre-packaged by Object Relational Mapping
 
 ## Installation
